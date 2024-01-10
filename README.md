@@ -6,3 +6,5 @@ Task codes for learning how to use an Arduino prepared as part of a science circ
 - gallery - photos and videos of some tasks
 
 ![GIF](https://github.com/JackobPunch/Arduino/blob/main/gallery/x-andy-axisservo-gif.gif)
+
+~example video
