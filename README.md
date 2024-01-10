@@ -4,3 +4,5 @@ Task codes for learning how to use Arduino prepared in the first-year study circ
 - tasks - all tasks with codes and circuit examples
 - gallery - photos and videos of some more interesting tasks
 - inventory - list of components used and their photos
+
+![GIF](https://github.com/JackobPunch/Arduino/blob/main/gallery/x-andy-axisservo-gif.gif)
